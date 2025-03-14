@@ -60,7 +60,7 @@
     color: white;
 }
 
-@media (max-width:390px){
+@media (max-width:380px){
 
     header .navbar-mobile{
         height: 65px;
